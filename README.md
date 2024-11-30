@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayush_Chauhan
 - 👀 I’m interested in Data and AI related work
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to a Company that help me to 
+- 🌱 I’m currently learning Machine Learning and Data Analyst
+- 💞️ I’m looking to a Company that help to give work in this feilds
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
